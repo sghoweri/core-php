@@ -1,6 +1,6 @@
 {
   "name": "@bolt/core-php",
-  "version": "2.4.0",
+  "version": "2.5.0",
   "license": "MIT",
   "description": "Core PHP Library",
   "repository": "https://github.com/bolt-design-system/bolt/tree/master/packages/core-php",
@@ -18,5 +18,5 @@
     "postinstall": "composer run setup"
   },
   "homepage": "https://boltdesignsystem.com",
-  "gitHead": "c8589641f7e45ff8d2c7b3b2156ea6c1fdacb756"
+  "gitHead": "0f4e15a4904c6672fad1dec343f2a9b4922b5b7e"
 }
